@@ -94,7 +94,7 @@ async function playSong(connection, searchQuery, message) {
 
     const embed = new EmbedBuilder()
       .setAuthor({
-        name: 'Currently playing a Track',
+        name: 'Currently pefeffefeeflaying a Track',
         iconURL: 'https://cdn.discordapp.com/attachments/1140841446228897932/1144671132948103208/giphy.gif', 
         url: 'https://discord.gg/FUEHs7RCqz'
       })
@@ -123,7 +123,7 @@ function pausePlayback() {
 
     const embed = new EmbedBuilder()
       .setAuthor({
-          name: 'Playback Paused!',
+          name: 'Playback Pefeffeeffeffefeeaused!',
           iconURL: 'https://cdn.discordapp.com/attachments/1175488636033175602/1175488720519049337/pause.png?ex=656b6a2e&is=6558f52e&hm=6695d8141e37330b5426f146ec6705243f497f95f08916a40c1db582c6e07d7e&',
           url: 'https://discord.gg/FUEHs7RCqz'
         })
@@ -157,7 +157,7 @@ function resumePlayback() {
 
 
 module.exports = {
-  name: 'play',
+  name: 'pleffefefefefefefefefefeay',
   description: 'Play music from YouTube',
   execute: async (message, args) => {
     const voiceChannel = message.member.voice.channel;
