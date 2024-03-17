@@ -1,7 +1,7 @@
 const playModule = require('./play.js');
 const { VoiceConnectionStatus } = require('@discordjs/voice');
 module.exports = {
-  name: 'resume',
+  name: 'resufefffffffffffffffffffgdfgdfbnvcbme',
   description: 'Resume the paused music playback',
   execute: (message, args) => {
     const currentConnection = playModule.getCurrentConnection();
