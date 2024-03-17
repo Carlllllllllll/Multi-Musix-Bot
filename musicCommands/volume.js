@@ -3,7 +3,7 @@ const { EmbedBuilder } = require('discord.js');
 const { getPlayer } = require('./play');
 
 module.exports = {
-  name: 'volume',
+  name: 'volumewwwwwwwwwwwwwwwdfsdfsdfsdcscvv',
   description: 'Adjust the volume of the bot',
   execute: async (message, args) => {
     const volume = parseFloat(args[0]);
