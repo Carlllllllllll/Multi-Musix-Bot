@@ -4,7 +4,7 @@ const { dequeue, playNextSong, playSong } = require('./play');
 const { queue } = require('./play');
 
 module.exports = {
-  name: 'skip',
+  name: 'skidfeffeeeeeeeeeeee',
   description: 'Skip the current song',
   async execute(message, args) {
     const voiceChannel = message.member.voice.channel;
