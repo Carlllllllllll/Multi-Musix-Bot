@@ -3,7 +3,7 @@ const { EmbedBuilder } = require('discord.js');
 const { queue } = require('./play');
 
 module.exports = {
-  name: 'queue',
+  name: 'quewdwwdwdwdwdwddue',
   description: 'Show the songs in the queue.',
   execute(message) {
     if (queue.length === 0) {
